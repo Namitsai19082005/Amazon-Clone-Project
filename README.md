@@ -1,0 +1,1 @@
+This is my Amazon clone Project made with html and css using online tutorial
